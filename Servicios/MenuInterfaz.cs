@@ -14,6 +14,14 @@ namespace Calculadora.Servicios
         /// </summary>
 
         public void mensajeBienvenida();
+
+
+        /// <summary>
+        /// Método que mostrará el menú de la calculadora.
+        /// 111023 - chi
+        /// </summary>
+       
+        public int calculadora();
     }
 
 }
